@@ -1,5 +1,6 @@
-# hello-world
-##My name is Ana!
+# HELLO WORLD WORKSHOP ATTENDEE HERE
+##Ana here! So okay I'm supposed to write about (usually my project but this time it would be about) me in here.
+
 I make games sometimes. I'm mainly a 2D artist, but I do some 3D as well. I've done about 10 game prototypes so far.
 I'm learning how to use GitHub to streamline my work. It's really handy in game jams and hackathons.
 
